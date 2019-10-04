@@ -1,0 +1,41 @@
+div{
+	width: 1500px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 300px;
+	border: purple 3px dashed;
+}
+
+div p.para{
+text-align: center;
+}
+
+.greenText{
+  color: green;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.bigText{
+  color: orange;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#red{
+  color: red;
+  vertical-align:super;
+}
+
+.tinyText{
+  color: purple;
+  font-size: 8px;
+  text-align: right;
+}
+
+#yellow{
+  color: yellow;
+  font-style: italic;
+  text-transform: uppercase;
+}

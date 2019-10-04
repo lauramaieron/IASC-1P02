@@ -1,0 +1,26 @@
+div{
+	width: 1200px;
+	margin: 100px 10% 100px 10%;
+	border: black 3px solid;
+}
+
+div p.para{
+	width: 1150px;
+	border: green 2px dashed;
+	margin-left: 25px;
+	margin-right: 25px;
+	color: red;
+}
+
+div img.box{
+	width: 200;
+	border: orange 2px dashed;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.background{
+	background-color:blue;
+}

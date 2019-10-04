@@ -1,0 +1,24 @@
+div {
+	width: 1200px;
+	border: black 2px dashed;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.background{
+	background-color:green;
+}
+
+#redText{
+  color: red;
+  padding-left: 10px;
+}
+
+#greenText{
+  color: darkgreen;
+  padding-left: 10px;
+}
+
+#purpleText{
+  color: purple;
+}
