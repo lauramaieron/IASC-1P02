@@ -1,0 +1,33 @@
+  body{
+  	color:white;
+  	background-color:white;
+  }
+
+
+  #wrapper{
+  	margin:0 auto;
+  	background-color:white;
+  }
+
+  #header{
+    padding-top: 10px;
+  	height:75px;
+  	text-align:center;
+    background-color: red;
+
+  }
+
+  #left{
+    padding-top: 10px;
+  	height: 500px;
+  	background-color:green;
+    font-size: small;
+  }
+
+
+  #footer{
+    padding-top: 10px;
+  	height:75px;
+    background-color:blue;
+    font-size: small;
+  }
