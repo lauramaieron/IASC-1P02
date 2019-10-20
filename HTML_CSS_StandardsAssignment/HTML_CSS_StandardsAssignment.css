@@ -1,0 +1,46 @@
+html{
+  background-color: orange;
+  font-style: italic;
+}
+
+.colour{
+  color: white;
+}
+
+.size{
+	font-size: 20px;
+}
+
+.type{
+	font-family: sans-serif;
+}
+.transform{
+	text-transform: uppercase;
+}
+
+.fixed{
+  position:fixed;
+  margin-left: 900px;
+  width: 300px;
+  border: solid 1px black;
+}
+
+
+.absolute{
+  position: absolute;
+  margin-left: 900px;
+  margin-bottom: 100px;
+  padding: 30px;
+  width: 500px;
+  background-color: white;
+  border: solid 1px black;
+}
+
+.relative{
+  position: relative;
+  margin-bottom: 100px;
+  padding: 30px;
+  width: 500px;
+  background-color: blue;
+  border: solid 1px black;
+}
