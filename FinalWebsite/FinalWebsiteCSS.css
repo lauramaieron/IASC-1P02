@@ -1,0 +1,157 @@
+#wrapper{
+    background-color: black;
+    width:1500px;
+    height:2000px:
+}
+
+#titleHeader{
+  width: 1500px;
+  height: 100px;
+  background-color: black;
+}
+
+#footer{
+  width: 1500px;
+  height: 30px;
+  background-color: black;
+}
+
+.footerText{
+  width: 1500px;
+  height: 20px;
+  color: white;
+  font-family: serif;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#title{
+  color: white;
+  font-family: serif;
+  font-size: 60px;
+  float: left;
+  padding: 20px;
+}
+
+#littleBox{
+    width:200px;
+    height:45px;
+    margin-top: 30px;
+    margin-right:50px;
+    background-color:white;
+    float: right;
+    }
+
+.links{
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+.links:hover{
+  font-weight:bold;
+}
+
+#mainPic{
+  width:1500px;
+  height:800px;
+}
+
+#aboutBox{
+  background-color: white;
+  border: 10px solid black;
+  width:970px;
+  height:725px;
+}
+
+.head{
+  background-color: white;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  font-family: serif;
+}
+
+.text{
+  font-size: 25px;
+  font-family: serif;
+}
+
+.fText{
+  font-size: 22px;
+  font-family: serif;
+}
+
+#twitterFeed{
+  float: right;
+  padding: 10px;
+}
+
+#filmBox{
+  border: 10px solid black;
+  width:1480px;
+  height:960px;
+}
+
+#videoBox{
+  margin-right: 10px;
+  margin-top: 5px;
+  width: 500px;
+  height: 725px;
+  float: right;
+}
+
+
+.filmText{
+  background-color: white;
+  margin-right: 5px;
+  margin-top: 10px;
+  width:940px;
+  height:400px;
+  border: 1px solid black;
+}
+
+.smallFilmBox{
+  background-color: white;
+  width:290px;
+  height:460px;
+  margin: 15px 5px 5px 0px;
+  float: left;
+  border: 10px dashed black;
+}
+
+.listText{
+  font-size: 20px;
+  font-family: serif;
+}
+
+#galleryBox{
+  background-color: white;
+  border: 10px solid black;
+  width:1480px;
+  height:600px;
+}
+
+.buttonNext{
+  float: right;
+  margin-top: 200px;
+  margin-right:100px;
+}
+
+.buttonPrev{
+  float:left;
+  margin-top: 200px;
+  margin-left: 80px;
+}
+
+
+.photos {
+  display:none;
+  border: 1px solid black;
+  margin: 10px 250px 10px 250px;
+  width: 1000px;
+  height: 500px;
+}
